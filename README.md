@@ -4,7 +4,7 @@ Projeto feito com o intuito de ter interface grafica onde o Administrador/root p
 A ideia do projeto veio com base em outro projeto (ABREC) em que estou participando nas mesmas linguagens Python, Pyside6 e Mysql
 
 O projeto (ABREC) tem como intuito entregar outro sistema desktop para a organização onde no passado uma empresa tinha começado a fazer o sistema
-mas acabou deixando o sistema incompleto a ideia basica do projeto é que a profissional responsável por toda a organização possa fazer o 
+mas acabou deixando o sistema incompleto.A ideia basica do projeto é que a profissional responsável por toda a organização possa fazer o 
 basico assim como o sistema criado por mim, cadastrar, editar, excluir e gerar execel e está sendo desenvolvido pela Fabrica de Softwate 96 no Senac Hub Academy
 
 
